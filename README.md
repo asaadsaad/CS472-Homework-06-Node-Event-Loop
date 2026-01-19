@@ -9,7 +9,7 @@
 7. Name 10 of Node Core modules
 8. Name 10 of Node Global objects
   
-#### Navigate to the `test` folder, run `npm i`
+#### From your Terminal, navigate to the `test` folder, and run `npm i`
 Write down your observation and explain what happens in Node when you run the following commands:
    1. `npm run start`  
    2. For Windows: `SET UV_THREADPOOL_SIZE=2 && npm run start`

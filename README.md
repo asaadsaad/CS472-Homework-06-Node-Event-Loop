@@ -55,7 +55,7 @@ console.log("Server is ready");
 ```
 1. Explain why setTimeout is delayed, even though it is scheduled with a delay of 0.
 2. Explain why converting heavyComputation to async and using await does not fix the problem.
-3. Exaplain how can we effectively fix the problem, so that the event loop is not blocked.
+3. Explain how can we effectively fix the problem, so that the event loop is not blocked.
   
 #### Question 04
 From your Terminal, navigate to the `test` folder, and write down your observation and explain what happens in Node when you run the following commands:

@@ -61,3 +61,4 @@ console.log("Server is ready");
 From your Terminal, navigate to the `test` folder, and write down your observation and explain what happens in Node when you run the following commands:
    1. `npx tsx app.ts`  
    2. Windows: `SET UV_THREADPOOL_SIZE=2 && npx tsx app.ts` OR MacOS: `export UV_THREADPOOL_SIZE=2 && npx tsx app.ts`
+   3. Windows: `SET UV_THREADPOOL_SIZE=10 && npx tsx app.ts` OR MacOS: `export UV_THREADPOOL_SIZE=10 && npx tsx app.ts`
